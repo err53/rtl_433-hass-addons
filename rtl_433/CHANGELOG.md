@@ -1,3 +1,7 @@
+## [0.2.4] - 2022-07-21
+
+- Update to custom fork of rtl_433
+
 ## [0.2.3] - 2022-05-09
 
 - Update to rtl_433 master as of April 28, 2022.
